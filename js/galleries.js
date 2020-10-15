@@ -50,7 +50,7 @@ jQuery('#gallery2').on('click', function (e) {
         // Videos
         dynamicEl: [
             {
-                "src": "http://vimeo.com/70301553",
+                "src": "https://youtu.be/cn-5eQqdkoo",
                 "subHtml": "Vimeo"
             },
             { // You Tube videos work only on a server.
