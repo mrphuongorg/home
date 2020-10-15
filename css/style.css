@@ -51,7 +51,7 @@ body,p,input,textarea {
     font-weight: normal;
 }
 h1,h2,h3,h4,h5,h6,strong,label,.tooltipster-content,.cv-table-left,.cv-button,.skillbar,.cv-resume-title p, .cvfilters li,.cvgrid li figure figcaption .cvgrid-title,#home-slide-title span,#home-title p,blockquote .cite,.nav-numbers li a,.meta,.page-date,.cv-box-title,.cv-readmore {
-    font-family: 'ralewaybold';
+    font-family: "Montserrat", sans-serif;
     font-weight: normal;
 }
 /* ================= GENERAL STYLES ================== */
